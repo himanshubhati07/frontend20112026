@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "android reac",
+    "slug": "androidreac",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.generated.androidreac" },
+    "android": { "package": "com.generated.androidreac", "softwareKeyboardLayoutMode": "pan" }
+  }
+}
